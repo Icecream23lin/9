@@ -1,0 +1,148 @@
+{
+  "report_metadata": {
+    "generation_date": "2025-07-22T23:26:34.681427",
+    "generation_date_formatted": "July 22, 2025",
+    "data_source": "../sample_data/sample1.csv",
+    "total_records": 15232,
+    "academic_year": "2024",
+    "report_title": "Work Integrated Learning (WIL) Data Analysis Report",
+    "report_version": "1.0",
+    "is_multi_year_analysis": false,
+    "focus_year": null
+  },
+  "key_statistics": {
+    "total_students": 10776,
+    "total_faculties": 9,
+    "total_courses": 181,
+    "focus_year": null
+  },
+  "faculty_breakdown": {
+    "DVC (A) Board of Studies": {
+      "count": 170,
+      "percentage": 1.6
+    },
+    "Division of Registrar and Deputy Principal": {
+      "count": 13,
+      "percentage": 0.1
+    },
+    "Faculty of Arts, Design and Architecture": {
+      "count": 1423,
+      "percentage": 13.1
+    },
+    "Faculty of Engineering": {
+      "count": 3473,
+      "percentage": 32.0
+    },
+    "Faculty of Law and Justice": {
+      "count": 500,
+      "percentage": 4.6
+    },
+    "Faculty of Medicine and Health": {
+      "count": 1708,
+      "percentage": 15.8
+    },
+    "Faculty of Science": {
+      "count": 270,
+      "percentage": 2.5
+    },
+    "UNSW Business School": {
+      "count": 3162,
+      "percentage": 29.2
+    },
+    "UNSW Canberra at ADFA": {
+      "count": 123,
+      "percentage": 1.1
+    }
+  },
+  "residency_breakdown": {
+    "International": {
+      "count": 4589,
+      "percentage": 42.3
+    },
+    "Local": {
+      "count": 6190,
+      "percentage": 57.1
+    }
+  },
+  "gender_breakdown": {
+    "Not Available": {
+      "count": 0,
+      "percentage": 0.0
+    }
+  },
+  "equity_cohort_statistics": {
+    "first_generation_rate": 0,
+    "indigenous_participation_rate": 0,
+    "ses_distribution": {},
+    "regional_distribution": {}
+  },
+  "cdev_statistics": {
+    "total_cdev_students": 170,
+    "total_cdev_courses": 7,
+    "cdev_course_list": [
+      "CDEV3400",
+      "CDEV3300",
+      "CDEV6000",
+      "CDEV3000",
+      "CDEV3200",
+      "CDEV3012",
+      "CDEV3001"
+    ]
+  },
+  "chart_descriptions": {
+    "year_comparison": {
+      "title": "Faculty Enrollment Overview (2025)",
+      "description": "This chart displays the distribution of WIL students across 9 faculties. A total of 10,776 students are enrolled in WIL programs.",
+      "key_finding": "The largest faculty by enrollment is Faculty of Engineering."
+    },
+    "faculty_residency": {
+      "title": "Student Distribution by Faculty and Residency Status",
+      "description": "This grouped bar chart compares local and international student enrollment across different faculties, providing insights into the diversity and international appeal of each program.",
+      "key_finding": "Overall, 57.1% are local students and 42.3% are international students."
+    },
+    "gender_distribution": {
+      "title": "Gender Representation Analysis",
+      "description": "These charts examine gender balance across the WIL program, showing both overall distribution and faculty-specific gender ratios to identify areas for diversity improvement.",
+      "key_finding": "Gender information is not available in the WIL dataset."
+    }
+  },
+  "key_insights": {
+    "program_overview": [
+      "The WIL program serves 10,776 students across 9 faculties.",
+      "A total of 181 different courses are offered.",
+      "The program demonstrates strong diversity in both academic disciplines and student demographics."
+    ],
+    "diversity_analysis": [
+      "International student participation is 42.3%.",
+      "Gender information is not available in WIL data.",
+      "First-generation student representation is 0.0%."
+    ]
+  },
+  "pdf_ready_content": {
+    "executive_summary": {
+      "total_students": "10,776",
+      "total_faculties": "9",
+      "total_courses": "181",
+      "academic_year": "2024",
+      "report_date": "July 22, 2025"
+    },
+    "chart_files": {
+      "year_comparison": "year_comparison_20250722.png",
+      "faculty_residency": "faculty_residency_20250722.png",
+      "gender_pie": "gender_distribution_pie_20250722.png",
+      "gender_faculty": "gender_distribution_faculty_20250722.png",
+      "first_generation": "first_generation_participation_20250722.png",
+      "ses_distribution": "ses_distribution_20250722.png",
+      "indigenous_participation": "indigenous_participation_20250722.png",
+      "regional_distribution": "regional_distribution_20250722.png",
+      "cdev_residency": "cdev_residency_20250722.png",
+      "cdev_gender": "cdev_gender_20250722.png"
+    },
+    "key_metrics": {
+      "largest_faculty": "Faculty of Engineering",
+      "international_percentage": "42.3%",
+      "female_percentage": "N/A",
+      "first_gen_percentage": "0.0%"
+    }
+  }
+}

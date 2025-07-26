@@ -1,0 +1,639 @@
+{
+  "report_metadata": {
+    "generation_date": "2025-07-23T02:33:07.575784",
+    "generation_date_formatted": "July 23, 2025",
+    "data_source": "/var/folders/xk/xm68n2fx095gsccvsn014js00000gn/T/tmp3x7bezul.csv",
+    "total_records": 9,
+    "academic_year": "2025",
+    "report_title": "Work Integrated Learning (WIL) Data Analysis Report",
+    "report_version": "1.0",
+    "is_multi_year_analysis": true,
+    "focus_year": "2025"
+  },
+  "key_statistics": {
+    "total_students": 5,
+    "total_faculties": 2,
+    "total_courses": 5,
+    "focus_year": "2025"
+  },
+  "faculty_breakdown": {
+    "Faculty of Engineering": {
+      "count": 3,
+      "percentage": 60.0
+    },
+    "Faculty of Science": {
+      "count": 2,
+      "percentage": 40.0
+    }
+  },
+  "residency_breakdown": {
+    "Domestic": {
+      "count": 3,
+      "percentage": 60.0
+    },
+    "International": {
+      "count": 2,
+      "percentage": 40.0
+    }
+  },
+  "gender_breakdown": {
+    "M": {
+      "count": 3,
+      "percentage": 60.0
+    },
+    "F": {
+      "count": 2,
+      "percentage": 40.0
+    }
+  },
+  "equity_cohort_statistics": {
+    "first_generation_rate": 0,
+    "indigenous_participation_rate": 0,
+    "ses_distribution": {},
+    "regional_distribution": {}
+  },
+  "cdev_statistics": {
+    "total_cdev_students": 0,
+    "total_cdev_courses": 0,
+    "cdev_course_list": []
+  },
+  "chart_descriptions": {
+    "year_comparison": {
+      "title": "Faculty Enrollment Overview (2025)",
+      "description": "This chart displays the distribution of WIL students across 2 faculties. A total of 5 students are enrolled in WIL programs.",
+      "key_finding": "The largest faculty by enrollment is Faculty of Engineering."
+    },
+    "faculty_residency": {
+      "title": "Student Distribution by Faculty and Residency Status",
+      "description": "This grouped bar chart compares local and international student enrollment across different faculties, providing insights into the diversity and international appeal of each program.",
+      "key_finding": "Overall, 0.0% are local students and 40.0% are international students."
+    },
+    "gender_distribution": {
+      "title": "Gender Representation Analysis",
+      "description": "These charts examine gender balance across the WIL program, showing both overall distribution and faculty-specific gender ratios to identify areas for diversity improvement.",
+      "key_finding": "Gender information is not available in the WIL dataset."
+    }
+  },
+  "key_insights": {
+    "program_overview": [
+      "The WIL program serves 5 students across 2 faculties.",
+      "A total of 5 different courses are offered.",
+      "The program demonstrates strong diversity in both academic disciplines and student demographics."
+    ],
+    "diversity_analysis": [
+      "International student participation is 40.0%.",
+      "Gender information is not available in WIL data.",
+      "First-generation student representation is 0.0%."
+    ]
+  },
+  "pdf_ready_content": {
+    "executive_summary": {
+      "total_students": "5",
+      "total_faculties": "2",
+      "total_courses": "5",
+      "academic_year": "2025",
+      "report_date": "July 23, 2025"
+    },
+    "chart_files": {
+      "year_comparison": "year_comparison_20250723.png",
+      "faculty_residency": "faculty_residency_20250723.png",
+      "gender_pie": "gender_distribution_pie_20250723.png",
+      "gender_faculty": "gender_distribution_faculty_20250723.png",
+      "first_generation": "first_generation_participation_20250723.png",
+      "ses_distribution": "ses_distribution_20250723.png",
+      "indigenous_participation": "indigenous_participation_20250723.png",
+      "regional_distribution": "regional_distribution_20250723.png",
+      "cdev_residency": "cdev_residency_20250723.png",
+      "cdev_gender": "cdev_gender_20250723.png"
+    },
+    "key_metrics": {
+      "largest_faculty": "Faculty of Engineering",
+      "international_percentage": "40.0%",
+      "female_percentage": "N/A",
+      "first_gen_percentage": "0.0%"
+    }
+  },
+  "gender_metadata": {
+    "total_records_with_gender": 5,
+    "total_latest_year_records": 5,
+    "latest_year_used": "2025",
+    "gender_data_coverage": 100.0
+  },
+  "analysis_tables": {
+    "wil_enrollment_comparison": {
+      "title": "Table 1: Year Comparison with % Change (2024 vs 2025)",
+      "headers": [
+        "Count of WIL Enrolments",
+        "Term",
+        "2024",
+        "2025",
+        "% Change"
+      ],
+      "rows": [
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Division of Registrar and Deputy Principal",
+          "2024": 0,
+          "2025": 0,
+          "% Change": "N/A"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "DVC (A) Board of Studies",
+          "2024": 0,
+          "2025": 0,
+          "% Change": "N/A"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Arts, Design and Architecture",
+          "2024": 3,
+          "2025": 3,
+          "% Change": "0.0%"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Engineering",
+          "2024": 3,
+          "2025": 3,
+          "% Change": "0.0%"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Law and Justice",
+          "2024": 3,
+          "2025": 3,
+          "% Change": "0.0%"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Medicine and Health",
+          "2024": 3,
+          "2025": 3,
+          "% Change": "0.0%"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Science",
+          "2024": 3,
+          "2025": 3,
+          "% Change": "0.0%"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "UNSW Business School",
+          "2024": 0,
+          "2025": 0,
+          "% Change": "N/A"
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Grand Total",
+          "2024": 15,
+          "2025": 15,
+          "% Change": "0.0%"
+        }
+      ],
+      "summary": {
+        "year_1": "2024",
+        "year_2": "2025",
+        "total_change": 0,
+        "total_change_pct": "0.0%"
+      }
+    },
+    "term_breakdown": {
+      "title": "Table 2: Term Breakdown (2024-2025)",
+      "headers": [
+        "Count of WIL Enrolments",
+        "Term",
+        "2024 Summer Term",
+        "2024 Term 1",
+        "2024 Term 2",
+        "2024 Term 3",
+        "2025 Summer Term",
+        "2025 Term 1",
+        "2025 Term 2",
+        "2025 Term 3"
+      ],
+      "hierarchical_headers": {
+        "level1": [
+          "Count of WIL Enrolments",
+          "Term",
+          "2024",
+          "2024",
+          "2024",
+          "2024",
+          "2025",
+          "2025",
+          "2025",
+          "2025"
+        ],
+        "level2": [
+          "",
+          "",
+          "Summer Term",
+          "Term 1",
+          "Term 2",
+          "Term 3",
+          "Summer Term",
+          "Term 1",
+          "Term 2",
+          "Term 3"
+        ]
+      },
+      "rows": [
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Division of Registrar and Deputy Principal",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "DVC (A) Board of Studies",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Arts, Design and Architecture",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Engineering",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Law and Justice",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Medicine and Health",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Faculty of Science",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "UNSW Business School",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        },
+        {
+          "Count of WIL Enrolments": "",
+          "Term": "Grand Total",
+          "2024 Summer Term": 0,
+          "2024 Term 1": 0,
+          "2024 Term 2": 0,
+          "2024 Term 3": 0,
+          "2025 Summer Term": 0,
+          "2025 Term 1": 0,
+          "2025 Term 2": 0,
+          "2025 Term 3": 0
+        }
+      ],
+      "summary": {
+        "total_students": 0,
+        "total_faculties": 8,
+        "years_covered": [
+          "2024",
+          "2025"
+        ]
+      }
+    },
+    "distinct_student_count": {
+      "title": "Table 3: Distinct Student Count (2024 vs 2025)",
+      "headers": [
+        "Distinct Count of WIL Students",
+        "Term",
+        "% Change",
+        "2024",
+        "2025"
+      ],
+      "rows": [
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Division of Registrar and Deputy Principal",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Non-Award",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Postgraduate",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Research",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  Division of Registrar and Deputy Principal Total",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "DVC (A) Board of Studies",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Non-Award",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Postgraduate",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Research",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  DVC (A) Board of Studies Total",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Faculty of Arts, Design and Architecture",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  Faculty of Arts, Design and Architecture Total",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Faculty of Engineering",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  Faculty of Engineering Total",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Faculty of Law and Justice",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  Faculty of Law and Justice Total",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Faculty of Medicine and Health",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  Faculty of Medicine and Health Total",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Faculty of Science",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  Faculty of Science Total",
+          "% Change": "0.0%",
+          "2024": 3,
+          "2025": 3
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "UNSW Business School",
+          "% Change": "",
+          "2024": "",
+          "2025": ""
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Non-Award",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Postgraduate",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Undergraduate",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "    Research",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "  UNSW Business School Total",
+          "% Change": "N/A",
+          "2024": 0,
+          "2025": 0
+        },
+        {
+          "Distinct Count of WIL Students": "",
+          "Term": "Grand Total",
+          "% Change": "0.0%",
+          "2024": 15,
+          "2025": 15
+        }
+      ],
+      "summary": {
+        "year_1": "2024",
+        "year_2": "2025",
+        "total_change": 0,
+        "total_change_pct": "0.0%",
+        "levels_included": [
+          "Non-Award",
+          "Postgraduate",
+          "Undergraduate",
+          "Research"
+        ]
+      }
+    },
+    "_metadata": {
+      "generation_date": "2025-07-23T02:33:07.591344",
+      "output_file": "analysis_tables_20250723.json",
+      "total_tables": 3,
+      "years_compared": [
+        2024,
+        2025
+      ],
+      "comparison_years": [
+        2024,
+        2025
+      ]
+    }
+  }
+}

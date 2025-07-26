@@ -1,0 +1,504 @@
+{
+  "wil_enrollment_comparison": {
+    "title": "Table 1: Year Comparison with % Change (2024 vs 2025)",
+    "headers": [
+      "Count of WIL Enrolments",
+      "Term",
+      "2024",
+      "2025",
+      "% Change"
+    ],
+    "rows": [
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Division of Registrar and Deputy Principal",
+        "2024": 0,
+        "2025": 0,
+        "% Change": "N/A"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "DVC (A) Board of Studies",
+        "2024": 0,
+        "2025": 0,
+        "% Change": "N/A"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Arts, Design and Architecture",
+        "2024": 3,
+        "2025": 3,
+        "% Change": "0.0%"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Engineering",
+        "2024": 3,
+        "2025": 3,
+        "% Change": "0.0%"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Law and Justice",
+        "2024": 3,
+        "2025": 3,
+        "% Change": "0.0%"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Medicine and Health",
+        "2024": 3,
+        "2025": 3,
+        "% Change": "0.0%"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Science",
+        "2024": 3,
+        "2025": 3,
+        "% Change": "0.0%"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "UNSW Business School",
+        "2024": 0,
+        "2025": 0,
+        "% Change": "N/A"
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Grand Total",
+        "2024": 15,
+        "2025": 15,
+        "% Change": "0.0%"
+      }
+    ],
+    "summary": {
+      "year_1": "2024",
+      "year_2": "2025",
+      "total_change": 0,
+      "total_change_pct": "0.0%"
+    }
+  },
+  "term_breakdown": {
+    "title": "Table 2: Term Breakdown (2024-2025)",
+    "headers": [
+      "Count of WIL Enrolments",
+      "Term",
+      "2024 Summer Term",
+      "2024 Term 1",
+      "2024 Term 2",
+      "2024 Term 3",
+      "2025 Summer Term",
+      "2025 Term 1",
+      "2025 Term 2",
+      "2025 Term 3"
+    ],
+    "hierarchical_headers": {
+      "level1": [
+        "Count of WIL Enrolments",
+        "Term",
+        "2024",
+        "2024",
+        "2024",
+        "2024",
+        "2025",
+        "2025",
+        "2025",
+        "2025"
+      ],
+      "level2": [
+        "",
+        "",
+        "Summer Term",
+        "Term 1",
+        "Term 2",
+        "Term 3",
+        "Summer Term",
+        "Term 1",
+        "Term 2",
+        "Term 3"
+      ]
+    },
+    "rows": [
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Division of Registrar and Deputy Principal",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "DVC (A) Board of Studies",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Arts, Design and Architecture",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Engineering",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Law and Justice",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Medicine and Health",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Faculty of Science",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "UNSW Business School",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      },
+      {
+        "Count of WIL Enrolments": "",
+        "Term": "Grand Total",
+        "2024 Summer Term": 0,
+        "2024 Term 1": 0,
+        "2024 Term 2": 0,
+        "2024 Term 3": 0,
+        "2025 Summer Term": 0,
+        "2025 Term 1": 0,
+        "2025 Term 2": 0,
+        "2025 Term 3": 0
+      }
+    ],
+    "summary": {
+      "total_students": 0,
+      "total_faculties": 8,
+      "years_covered": [
+        "2024",
+        "2025"
+      ]
+    }
+  },
+  "distinct_student_count": {
+    "title": "Table 3: Distinct Student Count (2024 vs 2025)",
+    "headers": [
+      "Distinct Count of WIL Students",
+      "Term",
+      "% Change",
+      "2024",
+      "2025"
+    ],
+    "rows": [
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Division of Registrar and Deputy Principal",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Non-Award",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Postgraduate",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Research",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  Division of Registrar and Deputy Principal Total",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "DVC (A) Board of Studies",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Non-Award",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Postgraduate",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Research",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  DVC (A) Board of Studies Total",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Faculty of Arts, Design and Architecture",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  Faculty of Arts, Design and Architecture Total",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Faculty of Engineering",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  Faculty of Engineering Total",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Faculty of Law and Justice",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  Faculty of Law and Justice Total",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Faculty of Medicine and Health",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  Faculty of Medicine and Health Total",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Faculty of Science",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  Faculty of Science Total",
+        "% Change": "0.0%",
+        "2024": 3,
+        "2025": 3
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "UNSW Business School",
+        "% Change": "",
+        "2024": "",
+        "2025": ""
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Non-Award",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Postgraduate",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Undergraduate",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "    Research",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "  UNSW Business School Total",
+        "% Change": "N/A",
+        "2024": 0,
+        "2025": 0
+      },
+      {
+        "Distinct Count of WIL Students": "",
+        "Term": "Grand Total",
+        "% Change": "0.0%",
+        "2024": 15,
+        "2025": 15
+      }
+    ],
+    "summary": {
+      "year_1": "2024",
+      "year_2": "2025",
+      "total_change": 0,
+      "total_change_pct": "0.0%",
+      "levels_included": [
+        "Non-Award",
+        "Postgraduate",
+        "Undergraduate",
+        "Research"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "capstone-project-25t2-9900-w10a-donut",
+  "version": "1.0.0",
+  "description": "In this project, we will build an automated reporting and insight generation \r system.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently --kill-others \"npm run dev --prefix frontend\" \"npm run electron\"",
+    "electron": "electron electron/main.js",
+    "build": "npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w10a-donut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w10a-donut/issues"
+  },
+  "homepage": "https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w10a-donut#readme",
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "electron": "^36.5.0"
+  },
+  "dependencies": {
+    "electron-log": "^5.4.1"
+  }
+}
